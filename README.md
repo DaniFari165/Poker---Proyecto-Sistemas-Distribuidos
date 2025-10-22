@@ -8,4 +8,9 @@ Juego de póker simplificado con **Pygame**.
 - Python 3.10+ (ideal 3.11/3.12)
 - Git (si deseas clonar el repo)
 
-## Estructura
+## Instalación
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
